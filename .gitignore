@@ -1,0 +1,10 @@
+# Artefatos de compilação
+*.o
+*.obj
+a.out
+trabalho1
+trabalho1.exe
+
+# Saídas de IDE
+bin/
+obj/
